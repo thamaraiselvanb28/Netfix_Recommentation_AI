@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════╗
 ║   CineAI v2 — TMDB-Powered Movie Recommendation Engine          ║
-║   Dataset : TMDB Kaggle (movies_metadata + credits + keywords)  ║
+║   Dataset : TMDB Kaggle (movies_metadata + credits + keywords)  ║ 
 ║   Posters : TMDB API  (real movie posters)                      ║
 ║   Stack   : Streamlit · Scikit-learn · Pandas · TMDB API        ║
 ╚══════════════════════════════════════════════════════════════════╝
